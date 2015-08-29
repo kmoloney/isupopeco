@@ -1,4 +1,4 @@
-
+#try git control
 dlogistic<-function(K=100, rd=2,N0=5,t=50)
 {alpha=1/K
   N<-c(N0,numeric(t))
