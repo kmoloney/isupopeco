@@ -1,3 +1,4 @@
 # isupopeco
-code for population ecology class
-Add new info
+
+Code for population ecology class at ISU
+
